@@ -1,0 +1,113 @@
+body {
+	background-color: gray;
+}
+
+.navbar {
+	margin-bottom: 0;
+	background-color: purple;
+	color: white;
+}
+
+.navbar a {
+	color: white;
+}
+
+.navbar a:hover {
+	color: blue;
+}
+
+.jumbotron {
+	border-radius: 0 !important;
+	border: solid gray 1px;
+	margin-bottom: 0;
+}
+
+#about {
+	margin-top: 50px;
+}
+.white-on-black {
+	color: white;
+	background-color: rgb(150, 150, 150);
+}
+
+.column {
+}
+
+#profile-pic {
+	border-radius: 50%;
+	height: 200px;
+}
+
+hr {
+	display: inline-block;
+	margin-bottom: 15px;
+	width: 70%;
+}
+
+.hr-white {
+	border: solid white 3px !important;
+}
+
+.hr-black {
+	border: solid rgb(150, 150, 150) 3px !important;
+}
+
+
+
+.white {
+	color: white;
+}
+
+.black {
+	color: rgb(150, 150, 150);
+}
+
+.thumbnail {
+	max-width: 340px;
+	height: auto;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#profile-pic {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}
+
+.panel-footer {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+.grid {
+	text-align: center;
+
+}
+
+#first-footer {
+	justify-content: center;
+}
+
+#weblinks {
+	list-style: none;
+	padding-left: 0;
+}
+
+#weblinks li {
+	display: inline;
+}
+
+#weblinks a, #weblinks a:visited {
+	color: white;
+}
+
+#weblinks a:hover {
+	color: blue;
+}
+
+#bottom-footer {
+	background-color: purple;
+	color: white;
+}
